@@ -3,6 +3,10 @@
 * 👂 My name is **Giannfranco Crovetto**
 * 👩 Pronouns: **he/him**
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20Everyone!%20👋&fontAlign=50&animation=fadeIn"/>
+</p>
+
 <!--
 * 🔭 I’m currently working on ...
 * 🌱 I’m currently learning ...
